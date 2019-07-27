@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/react-review/static/css/main.06bb5a00.chunk.css",
-    "main.js": "/github.io/react-review/static/js/main.eb408466.chunk.js",
-    "main.js.map": "/github.io/react-review/static/js/main.eb408466.chunk.js.map",
-    "runtime~main.js": "/github.io/react-review/static/js/runtime~main.1366f667.js",
-    "runtime~main.js.map": "/github.io/react-review/static/js/runtime~main.1366f667.js.map",
-    "static/js/2.3d4494ef.chunk.js": "/github.io/react-review/static/js/2.3d4494ef.chunk.js",
-    "static/js/2.3d4494ef.chunk.js.map": "/github.io/react-review/static/js/2.3d4494ef.chunk.js.map",
-    "index.html": "/github.io/react-review/index.html",
-    "precache-manifest.5d97fdf4f72ac41b4271b15239dafb4b.js": "/github.io/react-review/precache-manifest.5d97fdf4f72ac41b4271b15239dafb4b.js",
-    "service-worker.js": "/github.io/react-review/service-worker.js",
-    "static/css/main.06bb5a00.chunk.css.map": "/github.io/react-review/static/css/main.06bb5a00.chunk.css.map"
+    "main.css": "/react-review/static/css/main.06bb5a00.chunk.css",
+    "main.js": "/react-review/static/js/main.34d97683.chunk.js",
+    "main.js.map": "/react-review/static/js/main.34d97683.chunk.js.map",
+    "runtime~main.js": "/react-review/static/js/runtime~main.7c43aea8.js",
+    "runtime~main.js.map": "/react-review/static/js/runtime~main.7c43aea8.js.map",
+    "static/js/2.3d4494ef.chunk.js": "/react-review/static/js/2.3d4494ef.chunk.js",
+    "static/js/2.3d4494ef.chunk.js.map": "/react-review/static/js/2.3d4494ef.chunk.js.map",
+    "index.html": "/react-review/index.html",
+    "precache-manifest.0bc5153b308b1bd6235f6a5543185002.js": "/react-review/precache-manifest.0bc5153b308b1bd6235f6a5543185002.js",
+    "service-worker.js": "/react-review/service-worker.js",
+    "static/css/main.06bb5a00.chunk.css.map": "/react-review/static/css/main.06bb5a00.chunk.css.map"
   }
 }
