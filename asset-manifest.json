@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-review/static/css/main.06bb5a00.chunk.css",
-    "main.js": "/react-review/static/js/main.c05cd249.chunk.js",
-    "main.js.map": "/react-review/static/js/main.c05cd249.chunk.js.map",
+    "main.js": "/react-review/static/js/main.8c54512b.chunk.js",
+    "main.js.map": "/react-review/static/js/main.8c54512b.chunk.js.map",
     "runtime~main.js": "/react-review/static/js/runtime~main.7c43aea8.js",
     "runtime~main.js.map": "/react-review/static/js/runtime~main.7c43aea8.js.map",
     "static/js/2.4e89b4a6.chunk.js": "/react-review/static/js/2.4e89b4a6.chunk.js",
     "static/js/2.4e89b4a6.chunk.js.map": "/react-review/static/js/2.4e89b4a6.chunk.js.map",
     "index.html": "/react-review/index.html",
-    "precache-manifest.b27c3c38d390a9d0065243b48750005b.js": "/react-review/precache-manifest.b27c3c38d390a9d0065243b48750005b.js",
+    "precache-manifest.c2b3c79c7e26712223d293393b0265cf.js": "/react-review/precache-manifest.c2b3c79c7e26712223d293393b0265cf.js",
     "service-worker.js": "/react-review/service-worker.js",
     "static/css/main.06bb5a00.chunk.css.map": "/react-review/static/css/main.06bb5a00.chunk.css.map"
   }
