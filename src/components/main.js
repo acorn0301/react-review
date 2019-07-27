@@ -4,7 +4,8 @@ import Ul from './ul';
 
 const Main = ({match}) => {
       return (
-        <Ul member_num={match.params.member_num}></Ul>
+        <p>{match.params.member_num}</p>
+        // <Ul member_num={match.params.member_num}></Ul>
      );
 };
 
