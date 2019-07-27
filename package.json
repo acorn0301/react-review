@@ -1,4 +1,5 @@
 {
+  "homepage": "http://acorn0301.github.io/react-review",
   "name": "first-hotel-review",
   "version": "0.1.0",
   "private": true,
@@ -33,6 +34,6 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://15.164.144.128:8080",
-  "homepage": "http://acorn0301.github.io/react-review"
+  "proxy": "http://15.164.144.128:8080"
+ 
 }
