@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       App...
-      <Route path="/#/:member_num" component={Main}/>
+      {/* <Route path="/#/:member_num" component={Main}/> */}
       
       {/* <Main></Main> */}
     </div>
