@@ -17,6 +17,7 @@ const Root = ({store}) => {
 
     <Provider store={store} basename={process.env.PUBLIC_URL}> 
         <HashRouter> 
+            root...
             <App/> 
         </HashRouter> 
     </Provider>
