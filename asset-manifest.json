@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-review/static/css/main.06bb5a00.chunk.css",
-    "main.js": "/react-review/static/js/main.8ceac574.chunk.js",
-    "main.js.map": "/react-review/static/js/main.8ceac574.chunk.js.map",
+    "main.js": "/react-review/static/js/main.63d1a1d5.chunk.js",
+    "main.js.map": "/react-review/static/js/main.63d1a1d5.chunk.js.map",
     "runtime~main.js": "/react-review/static/js/runtime~main.7c43aea8.js",
     "runtime~main.js.map": "/react-review/static/js/runtime~main.7c43aea8.js.map",
-    "static/js/2.4e89b4a6.chunk.js": "/react-review/static/js/2.4e89b4a6.chunk.js",
-    "static/js/2.4e89b4a6.chunk.js.map": "/react-review/static/js/2.4e89b4a6.chunk.js.map",
+    "static/js/2.e1b71ff9.chunk.js": "/react-review/static/js/2.e1b71ff9.chunk.js",
+    "static/js/2.e1b71ff9.chunk.js.map": "/react-review/static/js/2.e1b71ff9.chunk.js.map",
     "index.html": "/react-review/index.html",
-    "precache-manifest.a8a7a635c1baf46a95f5ca51d808808d.js": "/react-review/precache-manifest.a8a7a635c1baf46a95f5ca51d808808d.js",
+    "precache-manifest.d81edf3aa868c0cfffa5b6b78d910d55.js": "/react-review/precache-manifest.d81edf3aa868c0cfffa5b6b78d910d55.js",
     "service-worker.js": "/react-review/service-worker.js",
     "static/css/main.06bb5a00.chunk.css.map": "/react-review/static/css/main.06bb5a00.chunk.css.map"
   }
