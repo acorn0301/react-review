@@ -1,0 +1,206 @@
+ul{
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+
+.review_div>div{
+    text-align: left;
+}
+
+.review_div{
+    padding-bottom: 20px;
+}
+
+.review_pics_div img{
+    width: 100%;
+ 
+}
+
+.review_member_div img{
+    width: 30px;
+    margin-right: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 100%;
+    
+}
+
+.review_div>.div_last{
+    border-bottom: 0px;
+}
+
+.review_member_div{
+    padding: 10px;
+    text-align: left;
+}
+
+.review_func_div{
+    padding: 10px 7px 3px 15px;
+
+}
+
+.review_func_div span{
+    margin-right: 10px;   
+}
+
+.review_func_div span i{
+    font-size: 1.8em;
+}
+
+.review_func_more{
+    float:right;
+    color: lightgrey;
+}
+
+.review_rating_div{
+    float: right;
+    padding-top: 5px;
+    padding-right: 10px;
+    position: relative;
+    top: -40px;
+    z-index: 9;
+ 
+}
+
+.review_rating_div i{
+    font-size: 1.2em;
+    color: lightgrey;
+}
+
+
+.review_rating_details_div i{
+    float: left;
+}
+
+.review_like_div{
+    padding: 3px 15px;
+}
+
+.review_content_div{
+    padding: 3px 15px;
+}
+.review_reply_div{
+    padding: 3px 15px;
+}
+
+.review_below{
+    position: relative;
+    top:-25px;
+}
+
+.review_writeday_div{
+    padding: 5px 15px;
+    color: grey;
+    font-size: 0.7em;
+}
+
+.review_reply_div span{
+    color: grey;
+}
+
+.review_reply_list_div{
+    padding: 5px 0px;
+}
+.review_reply_list_div img{
+    width: 30px;
+    margin-right: 10px;
+    border: 1px solid lightgrey;
+}
+.reply_writeday_div{
+    color: grey;
+    font-size: 0.7em;
+}
+.reply_comments{
+    float: left;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    width: 85%;
+}
+
+.review_reply_writeform_div{
+    padding: 5px 15px;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    bottom: 60px;
+    /* border: 1px solid lightgrey; */
+    border-top: 1px solid lightgrey;
+}
+
+.replyDeleteBtn{
+    float: right;
+   
+}
+.replyDeleteBtn i {
+    color: lightgrey;
+}
+
+.writeform_div{
+    
+}
+
+.writeform_div input{
+    outline: none;
+    width: 80%;
+    padding-left: 5px;
+    border: 0;
+}
+
+.writeform_div button{
+   
+}
+.writeform_div .reply_comments{
+    padding: 5px;
+    border: 1px solid lightgrey;
+    border-radius: 20px;
+    width: 80%;
+    margin-left: 5px;
+}
+.writeform_div img{
+    width: 40px;
+    
+}
+
+.writeform_nologin {
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: grey;
+}
+
+.writeform_nologin span{
+    color: #685845;
+}
+
+.a_reply{
+    text-decoration: none;
+    color: grey;
+}
+.a_reply:visited{
+    text-decoration: none;
+    color: grey;
+}
+
+
+/* 더블 클릭 시 하트 나왔다가 사라지게하기  */
+@keyframes showHeart {
+    0%{
+        opacity: 0;
+    } 
+    30%{
+      opacity: 1;
+    }
+    70%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+
+.imgHeart{
+    position: absolute;
+    z-index: 8;
+    top: 30px;
+    width: 100%;
+}
